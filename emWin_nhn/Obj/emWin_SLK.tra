@@ -1,0 +1,36 @@
+*** Creating Trace Output File '.\Obj\emWin_SLK.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\system_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\startup_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\nhn_oppfmslot.o"'
+### List of Objects: adding '".\obj\st_gb231224.o"'
+### List of Objects: adding '".\obj\apset.o"'
+### List of Objects: adding '".\obj\bitmapbar.o"'
+### List of Objects: adding '".\obj\bitmapcheckxl.o"'
+### List of Objects: adding '".\obj\bitmapcheckxxl.o"'
+### List of Objects: adding '".\obj\gui_x.o"'
+### List of Objects: adding '".\obj\guiconf.o"'
+### List of Objects: adding '"C:\Keil\ARM\Segger\emWin\Lib\GUI_CM3.lib"'
+### List of Objects: adding '".\GUI\GUI_TTF.lib"'
+### List of Objects: adding '".\obj\lcd_x_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\lcdconf.o"'
+### List of Objects: adding '".\obj\js28f128.o"'
+### List of Objects: adding '".\obj\sdram.o"'
+### List of Objects: adding '".\obj\tsc_2046.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\system_lpc177x_8x.o" ".\obj\startup_lpc177x_8x.o" ".\obj\main.o" ".\obj\nhn_oppfmslot.o" ".\obj\st_gb231224.o" ".\obj\apset.o" ".\obj\bitmapbar.o" ".\obj\bitmapcheckxl.o" ".\obj\bitmapcheckxxl.o" ".\obj\gui_x.o" ".\obj\guiconf.o" C:\Keil\ARM\Segger\emWin\Lib\GUI_CM3.lib D:\CortexM3Prj\emWin_nhn\GUI\GUI_TTF.lib ".\obj\lcd_x_lpc177x_8x.o" ".\obj\lcdconf.o" ".\obj\js28f128.o" ".\obj\sdram.o" ".\obj\tsc_2046.o" --library_type=microlib --strict --scatter ".\Obj\emWin_SLK.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Lst\emWin_SLK.map" -o ".\Obj\emWin_SLK.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\emWin_SLK.axf'
+### ADS-LD Command File: '.\Obj\emWin_SLK.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\emWin_SLK.lnp', Handle=0x000002F8
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\emWin_SLK.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

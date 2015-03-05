@@ -1,0 +1,10 @@
+.\Obj\sdram.o: ..\CommSrc\sdram.c
+.\Obj\sdram.o: ..\include\typeDef.h
+.\Obj\sdram.o: E:\Keil\MDK.V4.70\ARM\Inc\NXP\LPC177x_8x\LPC177x_8x.h
+.\Obj\sdram.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cm3.h
+.\Obj\sdram.o: E:\Keil\MDK.V4.70\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\sdram.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cmInstr.h
+.\Obj\sdram.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cmFunc.h
+.\Obj\sdram.o: E:\Keil\MDK.V4.70\ARM\Inc\NXP\LPC177x_8x\system_LPC177x_8x.h
+.\Obj\sdram.o: ..\include\net_misc.h
+.\Obj\sdram.o: ..\CommSrc\sdram.h

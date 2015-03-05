@@ -1,0 +1,9 @@
+.\Obj\mx29lv640e_drv.o: ..\CommSrc\MX29LV640E_Drv.c
+.\Obj\mx29lv640e_drv.o: ..\include\typeDef.h
+.\Obj\mx29lv640e_drv.o: E:\Keil\MDK.V4.70\ARM\Inc\NXP\LPC177x_8x\LPC177x_8x.h
+.\Obj\mx29lv640e_drv.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cm3.h
+.\Obj\mx29lv640e_drv.o: E:\Keil\MDK.V4.70\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\mx29lv640e_drv.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cmInstr.h
+.\Obj\mx29lv640e_drv.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cmFunc.h
+.\Obj\mx29lv640e_drv.o: E:\Keil\MDK.V4.70\ARM\Inc\NXP\LPC177x_8x\system_LPC177x_8x.h
+.\Obj\mx29lv640e_drv.o: ..\CommSrc\MX29LV640E_Drv.h

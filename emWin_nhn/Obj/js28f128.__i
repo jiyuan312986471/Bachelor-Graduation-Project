@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IC:\Keil\ARM\Segger\emWin\Include -I..\CommSrc -I..\include -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC177x_8x -DTSC_DBG -DSLK_BOARD -o ".\Obj\js28f128.o" --omf_browse ".\Obj\js28f128.crf" --depend ".\Obj\js28f128.d" "..\CommSrc\JS28F128.c"

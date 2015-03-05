@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\obj\system_lpc177x_8x.o" ".\obj\startup_lpc177x_8x.o" ".\obj\main.o" ".\obj\st_gb231224.o" ".\obj\bitmapbar.o" ".\obj\bitmapcheckxl.o" ".\obj\bitmapcheckxxl.o" ".\obj\cpltfmfrm.o" ".\obj\gui_x.o" ".\obj\guiconf.o" E:\Lernen\毕业设计\资料\emWin_new\emWin_nhn\GUI\GUI_TTF.lib E:\Keil\MDK.V4.70\ARM\Segger\emWin\Lib\GUI_CM3.lib ".\obj\lcd_x_lpc177x_8x.o" ".\obj\lcdconf.o" ".\obj\sdram.o" ".\obj\tsc_2046.o" ".\obj\mx29lv640e_drv.o" ".\obj\cpltfmslt_ftx.o" ".\obj\cpltfmslt_or.o" ".\obj\cpltfmslt.o" ".\obj\cpltfmslt_chassis.o" ".\obj\cpltfmslt_fan.o" ".\obj\cpltfmslt_ps.o" ".\obj\setap.o" ".\obj\cpltfmedfa.o" ".\obj\alarm_pic.o" ".\obj\logo_nhn.o" ".\obj\oppfcdata.o" 
+--library_type=microlib --strict --scatter ".\Obj\emWin.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Lst\emWin.map" -o .\Obj\emWin.axf

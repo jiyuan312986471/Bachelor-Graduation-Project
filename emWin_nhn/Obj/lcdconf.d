@@ -1,0 +1,17 @@
+.\Obj\lcdconf.o: Driver\LCDConf.c
+.\Obj\lcdconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI.h
+.\Obj\lcdconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_ConfDefaults.h
+.\Obj\lcdconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUIConf.h
+.\Obj\lcdconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_Type.h
+.\Obj\lcdconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\LCD.h
+.\Obj\lcdconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\Global.h
+.\Obj\lcdconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_Version.h
+.\Obj\lcdconf.o: ..\include\GUIDRV_Lin.h
+.\Obj\lcdconf.o: E:\Keil\MDK.V4.70\ARM\Inc\NXP\LPC177x_8x\LPC177x_8x.h
+.\Obj\lcdconf.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cm3.h
+.\Obj\lcdconf.o: E:\Keil\MDK.V4.70\ARM\ARMCC\bin\..\include\stdint.h
+.\Obj\lcdconf.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cmInstr.h
+.\Obj\lcdconf.o: E:\Keil\MDK.V4.70\ARM\CMSIS\Include\core_cmFunc.h
+.\Obj\lcdconf.o: E:\Keil\MDK.V4.70\ARM\Inc\NXP\LPC177x_8x\system_LPC177x_8x.h
+.\Obj\lcdconf.o: ..\include\LCD_X_LPC177x_8x.h
+.\Obj\lcdconf.o: ..\CommSrc\sdram.h

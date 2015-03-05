@@ -1,0 +1,11 @@
+.\Obj\font_showallttfs.o: Src\FONT_ShowAllTTFs.c
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\wm.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\GUI_ConfDefaults.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\GUIConf.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\GUI_Type.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\LCD.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\Global.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\WM_GUI.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\GUI.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\Segger\emWin\Include\GUI_Version.h
+.\Obj\font_showallttfs.o: C:\Keil\ARM\RV31\Inc\stdio.h

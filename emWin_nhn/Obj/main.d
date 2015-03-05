@@ -1,0 +1,11 @@
+.\Obj\main.o: Src\main.c
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\wm.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_ConfDefaults.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUIConf.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_Type.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\LCD.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\Global.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\WM_GUI.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI.h
+.\Obj\main.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_Version.h
+.\Obj\main.o: E:\Keil\MDK.V4.70\ARM\ARMCC\bin\..\include\stdio.h

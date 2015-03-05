@@ -1,0 +1,10 @@
+.\Obj\guiconf.o: GUI\GUIConf.c
+.\Obj\guiconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI.h
+.\Obj\guiconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_ConfDefaults.h
+.\Obj\guiconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUIConf.h
+.\Obj\guiconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_Type.h
+.\Obj\guiconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\LCD.h
+.\Obj\guiconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\Global.h
+.\Obj\guiconf.o: E:\Keil\ARM\Segger\emWin\GUI\Include\GUI_Version.h
+.\Obj\guiconf.o: ..\include\LCD_X_LPC177x_8x.h
+.\Obj\guiconf.o: ..\CommSrc\sdram.h

@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IE:\Keil\ARM\Segger\emWin\GUI\Include -I..\CommSrc -I..\include 
+-I E:\Keil\MDK.V4.70\ARM\RV31\INC 
+-I E:\Keil\MDK.V4.70\ARM\CMSIS\Include 
+-I E:\Keil\MDK.V4.70\ARM\Inc\NXP\LPC177x_8x 
+-DTSC_DBG -DFONT_IN_FLASH -o ".\Obj\cpltfmslt_chassis.o" --omf_browse ".\Obj\cpltfmslt_chassis.crf" --depend ".\Obj\cpltfmslt_chassis.d" "Src\cpltfmSlt_Chassis.c"

@@ -1,0 +1,47 @@
+*** Creating Trace Output File '.\Obj\emWin.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\system_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\startup_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\st_gb231224.o"'
+### List of Objects: adding '".\obj\bitmapbar.o"'
+### List of Objects: adding '".\obj\bitmapcheckxl.o"'
+### List of Objects: adding '".\obj\bitmapcheckxxl.o"'
+### List of Objects: adding '".\obj\cpltfmfrm.o"'
+### List of Objects: adding '".\obj\gui_x.o"'
+### List of Objects: adding '".\obj\guiconf.o"'
+### List of Objects: adding '".\GUI\GUI_TTF.lib"'
+### List of Objects: adding '"E:\Keil\MDK.V4.70\ARM\Segger\emWin\Lib\GUI_CM3.lib"'
+### List of Objects: adding '".\obj\lcd_x_lpc177x_8x.o"'
+### List of Objects: adding '".\obj\lcdconf.o"'
+### List of Objects: adding '".\obj\sdram.o"'
+### List of Objects: adding '".\obj\tsc_2046.o"'
+### List of Objects: adding '".\obj\mx29lv640e_drv.o"'
+### List of Objects: adding '".\obj\cpltfmslt_ftx.o"'
+### List of Objects: adding '".\obj\cpltfmslt_or.o"'
+### List of Objects: adding '".\obj\cpltfmslt.o"'
+### List of Objects: adding '".\obj\cpltfmslt_chassis.o"'
+### List of Objects: adding '".\obj\cpltfmslt_fan.o"'
+### List of Objects: adding '".\obj\cpltfmslt_ps.o"'
+### List of Objects: adding '".\obj\setap.o"'
+### List of Objects: adding '".\obj\cpltfmedfa.o"'
+### List of Objects: adding '".\obj\alarm_pic.o"'
+### List of Objects: adding '".\obj\logo_nhn.o"'
+### List of Objects: adding '".\obj\oppfcdata.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\system_lpc177x_8x.o" ".\obj\startup_lpc177x_8x.o" ".\obj\main.o" ".\obj\st_gb231224.o" ".\obj\bitmapbar.o" ".\obj\bitmapcheckxl.o" ".\obj\bitmapcheckxxl.o" ".\obj\cpltfmfrm.o" ".\obj\gui_x.o" ".\obj\guiconf.o" E:\Lernen\毕业设计\资料\emWin_new\emWin_nhn\GUI\GUI_TTF.lib E:\Keil\MDK.V4.70\ARM\Segger\emWin\Lib\GUI_CM3.lib ".\obj\lcd_x_lpc177x_8x.o" ".\obj\lcdconf.o" ".\obj\sdram.o" ".\obj\tsc_2046.o" ".\obj\mx29lv640e_drv.o" ".\obj\cpltfmslt_ftx.o" ".\obj\cpltfmslt_or.o" ".\obj\cpltfmslt.o" ".\obj\cpltfmslt_chassis.o" ".\obj\cpltfmslt_fan.o" ".\obj\cpltfmslt_ps.o" ".\obj\setap.o" ".\obj\cpltfmedfa.o" ".\obj\alarm_pic.o" ".\obj\logo_nhn.o" ".\obj\oppfcdata.o" 
+--library_type=microlib --strict --scatter ".\Obj\emWin.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Lst\emWin.map" -o .\Obj\emWin.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\emWin.axf'
+### ADS-LD Command File: '.\Obj\emWin.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\emWin.lnp', Handle=0x00000344
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\emWin.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\CortexM3Prj\emWin\emWin.uvproj
+Project File Date:  08/31/2012
+
+<h2>Output:</h2>
+Build target 'emWin'
+compiling system_LPC177x_8x.c...
+assembling startup_LPC177x_8x.s...
+linking...
+.\Obj\emWin.axf: Error: L6218E: Undefined symbol main (referred from entry8.o).
+Target not created

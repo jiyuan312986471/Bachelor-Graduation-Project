@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -IC:\Keil\ARM\Segger\emWin\Include -I..\CommSrc -I..\include -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC177x_8x -DTSC_DBG -o ".\Obj\widget_numpad.o" --omf_browse ".\Obj\widget_numpad.crf" --depend ".\Obj\widget_numpad.d" "Src\WIDGET_NumPad.c"
